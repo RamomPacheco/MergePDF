@@ -22,3 +22,6 @@ build/
 *.db
 *.sqlite3
 *.jsonl
+
+
+tests/
